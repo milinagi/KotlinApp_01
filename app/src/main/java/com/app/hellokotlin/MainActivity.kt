@@ -17,7 +17,7 @@ class MainActivity : AppCompatActivity() {
         findViewById<Button>(R.id.buttonReady).setOnClickListener {
 
             textViewStart.visibility = View.VISIBLE
-            textViewHello.text = "Empezando Curso!!!"
+            textViewHello.text = "Empezando Curso!!! Commit de prueba"
 
             /* findViewById<TextView>(R.id.textViewHello).text = "Empezando Curso!!" */
         }
