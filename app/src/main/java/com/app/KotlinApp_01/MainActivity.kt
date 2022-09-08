@@ -1,10 +1,11 @@
-package com.app.hellokotlin
+package com.app.KotlinApp_01
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.View
 import android.widget.Button
 import android.widget.TextView
+import com.app.hellokotlin.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

@@ -1,4 +1,4 @@
-package com.app.hellokotlin
+package com.app.KotlinApp_01
 
 import org.junit.Test
 
